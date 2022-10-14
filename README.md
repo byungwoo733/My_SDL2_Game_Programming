@@ -13,6 +13,12 @@ https://www.libsdl.org/languages.php
 
 =========================================
 
+SDL - 스프레드윙 G 스튜디오 티스토리
+
+https://spreadwing-gamestory.tistory.com/4
+
+=========================================
+
 How to build Yocto (Raspberry Pi 2 / 3 / 4 More Higher Version etc)
 
 HOB (UI)

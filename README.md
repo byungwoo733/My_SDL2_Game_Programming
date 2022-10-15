@@ -15,7 +15,7 @@ https://www.libsdl.org/languages.php
 
 =========================================
 
-SDL - 스프레드윙 G 스튜디오 티스토리
+SDL - Spread Wing G Studio Tistory 스프레드윙 G 스튜디오 티스토리
 
 https://spreadwing-gamestory.tistory.com/4
 

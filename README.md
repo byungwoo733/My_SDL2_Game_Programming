@@ -1,7 +1,7 @@
 # My_SDL2_Game_Programming
-SDL2 + OpenGL Game Programming
+SDL2 + OpenGL 프로그래밍 SDL2 + OpenGL Game Programming
 
-IDE: Code::blocks 20.03 Version
+IDE 개발 환경 : Code::blocks 20.03 Version
 
 SDL 위키 공식 문서
 
@@ -21,7 +21,9 @@ https://spreadwing-gamestory.tistory.com/4
 
 =========================================
 
-How to build Yocto (Raspberry Pi 2 / 3 / 4 More Higher Version etc)
+Target Development Board 타겟 개발 보드
+
+How to build Yocto (Raspberry Pi 2 / 3 / 4 More Higher Version etc) 욕토 프로젝트 빌드 환경 (라즈베리파이 2 / 3 / 4 성능 스펙)
 
 HOB (UI)
 

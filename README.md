@@ -3,13 +3,13 @@ SDL2 + OpenGL 프로그래밍 SDL2 + OpenGL Game Programming
 
 IDE 개발 환경 : Code::blocks 20.03 Version
 
-SDL 위키 공식 문서
+SDL Wiki Document SDL 위키 공식 문서
 
 https://wiki.libsdl.org/
 
 =========================================
 
-SDL - 다양한 언어 지원
+SDL - Support Various Programming Language 다양한 언어 지원
 
 https://www.libsdl.org/languages.php
 

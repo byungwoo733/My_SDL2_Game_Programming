@@ -1,7 +1,7 @@
 # My_SDL2_Game_Programming
 SDL2 + OpenGL 프로그래밍 SDL2 + OpenGL Game Programming
 
-IDE 개발 환경 : Code::blocks 20.03 Version
+IDE 개발 환경 : Code::blocks 20.03 Version 코드블럭 20.03 버전
 
 SDL Wiki Document SDL 위키 공식 문서
 

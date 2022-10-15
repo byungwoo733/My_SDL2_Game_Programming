@@ -1,6 +1,8 @@
 # My_SDL2_Game_Programming
 SDL2 + OpenGL Game Programming
 
+IDE: Code::blocks 20.03 Version
+
 SDL 위키 공식 문서
 
 https://wiki.libsdl.org/

@@ -1,4 +1,6 @@
 # My_SDL2_Game_Programming
+![라즈베리파이_아두이노에스플로라세트](https://user-images.githubusercontent.com/14072045/196181403-74ac4f24-de76-4155-9dcd-5affa115f695.jpeg)
+
 SDL2 + OpenGL 프로그래밍 SDL2 + OpenGL Game Programming
 
 IDE 개발 환경 : Code::blocks 20.03 Version 코드블럭 20.03 버전

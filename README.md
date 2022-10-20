@@ -23,7 +23,7 @@ https://spreadwing-gamestory.tistory.com/4
 
 =========================================
 
-Target Development Board 타겟 개발 보드
+Target Development Board & Target System (OS) 타겟 개발 보드 및 타겟 시스템(OS)
 
 How to build Yocto (Raspberry Pi 2 / 3 / 4 More Higher Version etc) 욕토 프로젝트 빌드 환경 (라즈베리파이 2 / 3 / 4 이상 성능 스펙) + Arduino Esplora Controller 아두이노 에스플로라 컨트롤러
 

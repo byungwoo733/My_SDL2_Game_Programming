@@ -33,13 +33,13 @@ Command Line (Bitbake)
 
 =========================================
 
-Yocto meta-raspberry pi
+Yocto meta-raspberry pi 욕토 라즈베리파이 
 
 https://git.yoctoproject.org/meta-raspberrypi
 
 =========================================
 
-Yocto Documentation
+Yocto Documentation 욕토 프로젝트 개발문서
 
 https://docs.yoctoproject.org/
 

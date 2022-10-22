@@ -37,6 +37,12 @@ Yocto meta-raspberry pi
 
 https://git.yoctoproject.org/meta-raspberrypi
 
+=========================================
+
+Yocto Documentation
+
+https://docs.yoctoproject.org/
+
 ========================================
 
 LearnOpenGL Book PDF

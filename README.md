@@ -31,6 +31,8 @@ HOB (UI)
 
 Command Line (Bitbake)
 
+=========================================
+
 Yocto meta-raspberry pi
 
 https://git.yoctoproject.org/meta-raspberrypi

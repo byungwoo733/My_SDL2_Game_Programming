@@ -1,0 +1,44 @@
+<!-- Here is an example of an XML file that represents a simple Tiled map -->
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="10" height="10" tilewidth="32" tileheight="32">
+    <tileset firstgid="1" name="tileset" tilewidth="32" tileheight="32">
+        <image source="tileset.png" width="320" height="320"/>
+    </tileset>
+    <layer name="Tile Layer 1">
+        <data>
+            <tile gid="1"/>
+            <tile gid="2"/>
+            <tile gid="3"/>
+            <!-- more tiles -->
+        </data>
+    </layer>
+    <layer name="Tile Layer 2">
+        <data>
+            <tile gid="4"/>
+            <tile gid="5"/>
+            <tile gid="6"/>
+            <!-- more tiles -->
+        </data>
+    </layer>
+</map>
+
+<!-- 
+In this example, the top-level element is the <map> element, which contains several attributes such as version, orientation, width, height, tilewidth, and tileheight. 
+
+Inside the <map> element, there are <tileset> and <layer> elements. The <tileset> element contains information about the tileset image, such as the file name, its width and height. 
+
+The <layer> elements contain information about the different layers in the map, such as the name of the layer, and the tile data in the form of <tile> elements, each with a gid attribute representing the global id of the tile. 
+
+Please note that this is a very basic example of a Tiled map file, in real-world examples, the file can contain much more information and data depending on the complexity of the map.
+
+[번역]
+이 예에서 최상위 요소는 버전, 방향, 너비, 높이, 타일 너비 및 타일 높이와 같은 여러 특성을 포함하는 <map> 요소입니다. 
+
+<map> 요소 안에는 <tileset>과 <layer> 요소가 있습니다. 
+
+<tileset> 요소에는 파일 이름, 너비 및 높이와 같은 타일셋 이미지에 대한 정보가 포함되어 있습니다. 
+    
+<layer> 요소에는 레이어 이름, <tile> 요소 형식의 타일 데이터와 같은 맵의 여러 레이어에 대한 정보가 포함되어 있으며 각각 타일의 전역 ID를 나타내는 gid 속성이 있습니다. 
+    
+이것은 Tiled 맵 파일의 매우 기본적인 예이며, 실제 예에서는 맵의 복잡성에 따라 파일에 훨씬 더 많은 정보와 데이터가 포함될 수 있습니다.
+-->

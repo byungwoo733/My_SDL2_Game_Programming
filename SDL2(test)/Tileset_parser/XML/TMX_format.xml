@@ -1,0 +1,76 @@
+<!-- Here is an example of a Tiled map file in the TMX format -->
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.2" orientation="orthogonal" renderorder="right-down" width="10" height="10" tilewidth="32" tileheight="32" nextobjectid="1">
+  <tileset firstgid="1" source="tileset.tsx"/>
+  <layer name="Tile Layer 1" width="10" height="10">
+    <data encoding="csv">
+      1,2,3,4,5,6,7,8,9,10
+      11,12,13,14,15,16,17,18,19,20
+      21,22,23,24,25,26,27,28,29,30
+      31,32,33,34,35,36,37,38,39,40
+      41,42,43,44,45,46,47,48,49,50
+      51,52,53,54,55,56,57,58,59,60
+      61,62,63,64,65,66,67,68,69,70
+      71,72,73,74,75,76,77,78,79,80
+      81,82,83,84,85,86,87,88,89,90
+      91,92,93,94,95,96,97,98,99,100
+    </data>
+  </layer>
+  <layer name="Tile Layer 2" width="10" height="10">
+    <data encoding="csv">
+      101,102,103,104,105,106,107,108,109,110
+      111,112,113,114,115,116,117,118,119,120
+      121,122,123,124,125,126,127,128,129,130
+      131,132,133,134,135,136,137,138,139,140
+      141,142,143,144,145,146,147,148,149,150
+      151,152,153,154,155,156,157,158,159,160
+      161,162,163,164,165,166,167,168,169,170
+      171,172,173,174,175,176,177,178,179,180
+      181,182,183,184,185,186,187,188,189,190
+      191,192,193,194,195,196,197,198,199,200
+    </data>
+  </layer>
+</map>
+
+<!-- 
+In this example, the top-level element is the <map> element, which contains several attributes such as version, orientation, renderorder, width, height, tilewidth, tileheight, and nextobjectid. 
+
+Inside the <map> element, there are <tileset> and <layer> elements. 
+
+The <tileset> element contains information about the tileset such as the file name and the firstgid. 
+
+The <layer> elements contain information about the different layers in the map, such as the name of the layer and the tile data in the form of <data> element, each with a encoding attribute representing the method of encoding the tile data.
+
+Here is some more information about this example. 
+
+In this example the tile data is encoded in CSV format, which stands for Comma Separated Values. 
+
+It means that the data is represented as plain text, with each tile id separated by a comma. 
+
+The tile data is organized in a matrix format, with each row representing a horizontal row of tiles in the map, and each column representing a vertical column of tiles.
+
+This example shows two layers, "Tile Layer 1" and "Tile Layer 2", with each layer having its own set of tile data. It is important to note that this is a very basic example of a Tiled map file, in real-world examples, the file can contain much more information and data depending on the complexity of the map. Also, there are other ways of encoding tile data such as Base64, XML, and JSON.
+
+[번역]
+
+이 예에서 최상위 요소는 버전, 방향, 렌더링 순서, 너비, 높이, 타일 너비, 타일 높이 및 nextobjectid와 같은 여러 특성을 포함하는 <map> 요소입니다. 
+
+<map> 요소 안에는 <tileset>과 <layer> 요소가 있습니다. 
+
+<tileset> 요소에는 파일 이름 및 firstgid와 같은 타일셋에 대한 정보가 포함됩니다. 
+
+<layer> 요소에는 타일 데이터를 인코딩하는 방법을 나타내는 인코딩 속성이 있는 <data> 요소 형식의 레이어 이름 및 타일 데이터와 같이 맵의 여러 레이어에 대한 정보가 포함됩니다.
+
+이 예에서 타일 데이터는 Comma Separated Values를 나타내는 CSV 형식으로 인코딩됩니다. 이는 데이터가 각 타일 ID가 쉼표로 구분된 일반 텍스트로 표시됨을 의미합니다. 
+
+타일 ​​데이터는 매트릭스 형식으로 구성되며 각 행은 맵에서 타일의 가로 행을 나타내고 각 열은 타일의 세로 열을 나타냅니다.
+
+이 예는 "타일 레이어 1"과 "타일 레이어 2"의 두 레이어를 보여주며 각 레이어에는 자체 타일 데이터 세트가 있습니다. 
+
+이것은 Tiled 맵 파일의 매우 기본적인 예라는 점에 유의해야 합니다. 
+
+실제 예에서 파일은 맵의 복잡성에 따라 훨씬 더 많은 정보와 데이터를 포함할 수 있습니다. 
+
+또한 Base64, XML 및 JSON과 같은 타일 데이터를 인코딩하는 다른 방법이 있습니다.
+
+-->
